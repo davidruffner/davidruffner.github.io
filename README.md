@@ -1,1 +1,3 @@
-# davidruffner.github.io
+# Hi, I'm David Ruffner
+
+Welcome to my Github profile.
