@@ -1,3 +1,3 @@
-# Hi, I'm David Ruffner
+## Hi, I'm David Ruffner
 
 Welcome to my Github profile.
